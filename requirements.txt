@@ -1,1 +1,6 @@
 opencv-python-headless
+numpy 
+matplotlib.pyplot
+joblib
+pandas
+seaborn
